@@ -1,4 +1,4 @@
-Candidate Application Platform
+# candidate-application-platform
 
 To run the project locally, you can run:
 
